@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B.Lai | Erin E. Looney</title>
+    <link>https://erinelizabethlooney.com/authors/b.lai/</link>
+      <atom:link href="https://erinelizabethlooney.com/authors/b.lai/index.xml" rel="self" type="application/rss+xml" />
+    <description>B.Lai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Erin E. Looney</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://erinelizabethlooney.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>B.Lai</title>
+      <link>https://erinelizabethlooney.com/authors/b.lai/</link>
+    </image>
+    
+    <item>
+      <title>Oxygen-related defect characterization using correlative microscopy</title>
+      <link>https://erinelizabethlooney.com/publication/eu_pvsec/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://erinelizabethlooney.com/publication/eu_pvsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do grain boundaries matter? Electrical and elemental identification at grain boundaries in LeTID-affected p-type multicrystalline silicon</title>
+      <link>https://erinelizabethlooney.com/publication/letid_xrf/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://erinelizabethlooney.com/publication/letid_xrf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
